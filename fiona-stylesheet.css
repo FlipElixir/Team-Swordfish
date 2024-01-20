@@ -19,13 +19,12 @@ body {
 
 @font-face{
   font-family: "helvetica";
-  src: url(ReemKufi-Regular.ttf)
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
 
 .font2 {
-  font-family: "helvetica", cursive, sans-serif;
+  font-family: "helvetica";
 }
 
 .header {
@@ -38,26 +37,26 @@ body {
 h1 {
   text-align: center;
   filter: brightness(100%);
-  font-family: "helvetica", cursive, sans-serif;
+  font-family: "helvetica";
   font-size: 80px;
 }
 
 h2 {
   text-align: center;
   filter: brightness(100%);
-  font-family: "helvetica", cursive, sans-serif;
+  font-family: "helvetica";
   font-size: 36px;
 }
 
 h3 {
   text-align: center;
   filter: brightness(100%);
-  font-family: "helvetica", cursive, sans-serif;
+  font-family: "helvetica";
   font-size: 24px;
 }
 
 p {
-  font-family: "helvetica", cursive, sans-serif;
+  font-family: "helvetica";
   font-size: 18px;
 }
 
